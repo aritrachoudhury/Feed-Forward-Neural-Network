@@ -1,0 +1,1 @@
+Implementation of a feed-forward neural network (NN) that performs classification on the IRIS dataset. The neural network is trained via the stochastic gradient method (SGD), forward propagation and back propagation algorithms. The performance of my implementation is compared with that of the built-in NN module available in scikit-learn
